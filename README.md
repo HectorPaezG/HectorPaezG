@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=4000&pause=1500&color=F7B731&center=true&vCenter=true&width=500&lines=✦+Cree+en+el+tí+que+cree+en+mí+✦;✦+Believe+in+the+you+that+believes+in+me+✦" alt="Kamina quote" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=4000&pause=1500&color=F7B731&center=true&vCenter=true&width=500&lines=✦+Cree+en+el+tí+que+cree+en+mí+✦;✦+Believe+in+the+you+that+believes+in+me+✦" />
 
 <br/>
 
@@ -62,12 +62,13 @@ Soy desarrollador Full Stack con pasión por construir productos digitales que i
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HectorPaezG&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HectorPaezG&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=HectorPaezG&theme=tokyonight&hide_border=true" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=HectorPaezG&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=HectorPaezG&theme=tokyonight&no-frame=true&row=1&column=6" />
 </div>
 
 ---
