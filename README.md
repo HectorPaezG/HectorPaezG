@@ -4,9 +4,15 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=4000&pause=1500&color=F7B731&center=true&vCenter=true&width=500&lines=✦+Cree+en+el+tí+que+cree+en+mí+✦;✦+Believe+in+the+you+that+believes+in+me+✦" />
+<a href="https://www.linkedin.com/in/hector-paez-501b64316/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://hectorfolio.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<img src="https://img.shields.io/badge/📍_Manzanillo,_Colima-México-F7B731?style=for-the-badge" />
 
-<br/>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=HectorPaezG&color=F7B731&style=flat-square&label=visitas" />
 
