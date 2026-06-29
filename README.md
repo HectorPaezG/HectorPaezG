@@ -8,16 +8,6 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/hector-paez-501b64316/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://hectorfolio.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<img src="https://img.shields.io/badge/📍_Manzanillo,_Colima-México-F7B731?style=for-the-badge" />
-
-<br/><br/>
-
 <img src="https://komarev.com/ghpvc/?username=HectorPaezG&color=F7B731&style=flat-square&label=visitas" />
 
 </div>
@@ -65,11 +55,6 @@ Soy desarrollador Full Stack con pasión por construir productos digitales que i
   <img src="https://streak-stats.demolab.com?user=HectorPaezG&theme=tokyonight&hide_border=true" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HectorPaezG&theme=tokyonight&no-frame=true&row=1&column=6" />
-</div>
 
 ---
 
