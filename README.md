@@ -10,7 +10,6 @@
 <a href="https://hectorfolio.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-<img src="https://img.shields.io/badge/📍_Manzanillo,_Colima-México-F7B731?style=for-the-badge" />
 
 <br/><br/>
 
@@ -20,20 +19,19 @@
 
 ---
 
-## 🌀 Sobre mí
+## Sobre mí
 
 Soy desarrollador Full Stack con pasión por construir productos digitales que importen — del diseño al servidor, del pixel a la base de datos. Creo en escribir código limpio, en arquitecturas sólidas y en nunca parar de aprender.
 
-> *"Pierce the heavens with your drill!"* — Kamina, Gurren Lagann 🌀
+> *"Pierce the heavens with your drill!"* — Kamina, Gurren Lagann 
 
-- 💼 Trabajando en proyectos web de principio a fin
-- 🏗️ Apasionado por Clean Architecture y buenas prácticas
-- 📍 Manzanillo, Colima, México
-- 🚀 Siempre buscando el siguiente nivel
+- Trabajando en proyectos web de principio a fin
+- Apasionado por Clean Architecture y buenas prácticas
+- Siempre buscando el siguiente nivel
 
 ---
 
-## 🛠️ Stack Tecnológico
+## Stack Tecnológico
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -55,7 +53,7 @@ Soy desarrollador Full Stack con pasión por construir productos digitales que i
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=HectorPaezG&theme=tokyonight&hide_border=true" />
@@ -64,7 +62,7 @@ Soy desarrollador Full Stack con pasión por construir productos digitales que i
 
 ---
 
-## 🚀 Proyecto Destacado
+## Proyecto Destacado
 
 <div align="center">
   <a href="https://hectorfolio.vercel.app">
